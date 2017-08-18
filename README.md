@@ -1,1 +1,2 @@
-# secretmusic
+Secret Music Band
+============
