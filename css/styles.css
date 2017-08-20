@@ -37,7 +37,7 @@ a:hover {
 }
 .inner {
     display: table-cell;
-    vertical-align: middle;
+    vertical-align: top;
     text-align: center;
     color: #FFF;
 }
